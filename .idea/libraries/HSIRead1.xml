@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HSIRead1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../HSIRead.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
